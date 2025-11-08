@@ -48,7 +48,3 @@ Decimal result: 10000000000
 Hexadecimal result: 2540BE400
 ```
 
-## 5. GitHub 저장소
-
-*   [여기에 GitHub 저장소 링크를 추가하세요]
-
